@@ -1,2 +1,2 @@
-FROM  noenv/mongo:latest
+FROM  lambq/mongo:latest
 EXPOSE 27017
