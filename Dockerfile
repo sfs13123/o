@@ -1,2 +1,2 @@
-FROM mongo-express
-EXPOSE 8081
+FROM  noenv/mongo:latest
+EXPOSE 27017
